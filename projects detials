@@ -1,0 +1,19 @@
+This project is developed to create a menu driven billing calculator using Python.
+
+The system allows users to perform different billing operations through a simple menu interface.
+
+Users can enter the price and quantity of items to calculate the bill amount.
+
+The calculator allows adding item costs to the total bill.
+
+It also supports subtracting discounts from the total bill amount.
+
+The program performs multiplication to calculate the cost based on item quantity.
+
+The calculator can divide the total amount when required.
+
+The billing amount is updated after each operation.
+
+The menu is displayed repeatedly until the user chooses the exit option.
+
+This project helps in understanding Python operators, user input, loops, and conditional statements.
